@@ -1,10 +1,7 @@
-[
-  {
-  "id":1,
-  "nome":"Francia"
-},
-  {
-    "id":2,
-    "nome":"Italia"
-  }
-]
+{
+  "posts": [
+    { "id": 1, "nome": "Post 1" },
+    { "id": 2, "nome": "Post 2" },
+    { "id": 3, "nome": "Post 3" }
+  ]
+}
