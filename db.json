@@ -1,4 +1,10 @@
-{
+[
+  {
   "id":1,
   "nome":"Francia"
-}
+},
+  {
+    "id":2,
+    "nome":"Italia"
+  }
+]
