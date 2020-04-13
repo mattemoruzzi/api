@@ -8,6 +8,35 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
+  "destinazioni" : [
+    [
+  {
+  "id" : 1,
+  "nome": "Belgio",
+  "descrizione": "Il Belgio è una nazione dell'Europa Occidentale nota per le città medievali, l'architettura rinascimentale e in quanto sede dell'Unione Europea e della NATO. È suddivisa in regioni distinte: le Fiandre di lingua olandese a nord, la Vallonia francofona a sud e la comunità germanofona a est. La capitale bilingue, Bruxelles, ospita edifici in stile Art Nouveau. Le case delle corporazioni, riccamente decorate, si affacciano sulla Grand-Place."  
+  },
+  {
+    "id" : 2,
+    "nome": "Olanda",
+    "descrizione": "I Paesi Bassi, situati nel nord-ovest dell'Europa, sono conosciuti soprattutto per il paesaggio piatto ricco di canali, campi di tulipani, mulini a vento e piste ciclabili. Ad Amsterdam, la capitale, si trovano il Rijksmuseum, il Museo di Van Gogh e la casa dove Anna Frank scrisse il suo diario durante la seconda guerra mondiale. A testimonianza del cosiddetto Secolo d'oro che interessò la città nel XVII secolo, sono rimaste le tipiche case affacciate sul canale e la raccolta di opere di artisti come Rembrandt e Vermeer."
+  },
+  {
+    "id" : 3,
+    "nome": "Singapore",
+    "descrizione": "Singapore è un'isola città-stato a sud della Malesia, centro finanziario globale con clima tropicale e popolazione multietnica. Il suo nucleo coloniale ruota attorno a Padang, originariamente un campo di cricket risalente al 1830 circa e ora affiancato da grandi edifici, come il municipio con le sue diciotto colonne corinzie. Nella Chinatown di Singapore, risalente al 1820 circa, si trova il tempio della Reliquia del Dente di Buddha."
+  },
+  {
+    "id" : 4,
+    "nome": "Qatar",
+    "descrizione": "Il Qatar è un paese delle penisola araba il cui territorio comprende deserto arido e una lunga costa di spiagge e dune sul Golfo Persico. Sulla costa si trova anche la capitale, Doha, nota per i grattacieli avveniristici e le architetture d'avanguardia ispirate all'antica tradizione islamica. Tra queste va ricordato il Museo d'Arte Islamica in pietra calcarea, eretto sulla Corniche, la passeggiata del lungomare."
+  },
+  {
+    "id" : 5,
+    "nome": "Estonia",
+    "descrizione": "L’Estonia è una nazione dell'Europa Settentrionale, lambita dalle acque del Mar Baltico e del Golfo di Finlandia. Comprende più di 1500 isole e il suo variegato territorio va da spiagge rocciose ad antiche foreste, a una grande quantità di laghi. Un tempo parte dell’Unione Sovietica, è caratterizzata dalla presenza di castelli, chiese e fortezze arroccate sulle colline. La capitale, Tallinn, è famosa per il suo centro storico ancora perfettamente conservato, per i musei e la torre televisiva, alta 314 m e dotata di un punto panoramico."
+  }
+]
+  ],
   "profile": {
     "name": "typicode"
   }
