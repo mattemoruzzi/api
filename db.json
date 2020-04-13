@@ -9,7 +9,6 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "destinazioni" : [
-    [
   {
   "id" : 1,
   "nome": "Belgio",
@@ -35,7 +34,6 @@
     "nome": "Estonia",
     "descrizione": "L’Estonia è una nazione dell'Europa Settentrionale, lambita dalle acque del Mar Baltico e del Golfo di Finlandia. Comprende più di 1500 isole e il suo variegato territorio va da spiagge rocciose ad antiche foreste, a una grande quantità di laghi. Un tempo parte dell’Unione Sovietica, è caratterizzata dalla presenza di castelli, chiese e fortezze arroccate sulle colline. La capitale, Tallinn, è famosa per il suo centro storico ancora perfettamente conservato, per i musei e la torre televisiva, alta 314 m e dotata di un punto panoramico."
   }
-]
   ],
   "profile": {
     "name": "typicode"
